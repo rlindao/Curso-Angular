@@ -1,0 +1,13 @@
+tasks:
+  - init: npm install
+    command: npm start
+
+vscode:
+  extensions:
+    - eg2.vscode-npm-script@0.3.11:Np1+d2YoqckGfeIuPylSEw==
+    - mikael.angular-beastcode@10.0.3:RJ2bMuvUpAuD63D5osKHMg==
+    - angular.ng-template@11.1.1:gz+KMBUNwIOhMWL7i8O1oQ==
+    - hansuxdev.bootstrap5-snippets@1.2.5:5jmnUWXom2OJfeRCOnXM+w==
+    - ecmel.vscode-html-css@1.9.1:IxAxIfaC6OW70vfl5VyKbg==
+    - xabikos.javascriptsnippets@1.8.0:irMtTLqQntnfBQkmtahtNA==
+    - lonefy.vscode-js-css-html-formatter@0.2.3:i8S7423XUWOGOigQhW/Zbg==
